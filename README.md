@@ -1,7 +1,11 @@
-# Halo semua! 
+# Hello Everyone! 
 
-Perkenalkan nama saya **Ronald Edward**.
+My Name is **Ronald Edward**.
 
-Saya seorang **Mahasiswa Teknik ELektro** di **Universitas Brawijaya**
+I'm an Eletcrical **Engineering Student** at **Brawijaya University**
 
-
+<p align="left">
+<a href="https://github.com/RonaldEdward2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RonaldEdward2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
